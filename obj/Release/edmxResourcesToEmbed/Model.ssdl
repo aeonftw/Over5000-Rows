@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Over5000Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Echipamente">
+    <Key>
+      <PropertyRef Name="id_echipament" />
+    </Key>
+    <Property Name="id_echipament" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nume_echipament" Type="varchar" MaxLength="20" />
+    <Property Name="id_producator" Type="int" />
+  </EntityType>
+  <EntityType Name="Producatori">
+    <Key>
+      <PropertyRef Name="id_producator" />
+    </Key>
+    <Property Name="id_producator" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nume_producator" Type="varchar" MaxLength="20" />
+  </EntityType>
+  <Association Name="fk_idp">
+    <End Role="Producatori" Type="Self.Producatori" Multiplicity="0..1" />
+    <End Role="Echipamente" Type="Self.Echipamente" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Producatori">
+        <PropertyRef Name="id_producator" />
+      </Principal>
+      <Dependent Role="Echipamente">
+        <PropertyRef Name="id_producator" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Over5000ModelStoreContainer">
+    <EntitySet Name="Echipamente" EntityType="Self.Echipamente" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Producatori" EntityType="Self.Producatori" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="fk_idp" Association="Self.fk_idp">
+      <End Role="Producatori" EntitySet="Producatori" />
+      <End Role="Echipamente" EntitySet="Echipamente" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

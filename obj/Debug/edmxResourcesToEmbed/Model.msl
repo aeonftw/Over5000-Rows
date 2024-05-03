@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Over5000ModelStoreContainer" CdmEntityContainer="Over5000Entities">
+    <EntitySetMapping Name="Echipamentes">
+      <EntityTypeMapping TypeName="Over5000Model.Echipamente">
+        <MappingFragment StoreEntitySet="Echipamente">
+          <ScalarProperty Name="id_echipament" ColumnName="id_echipament" />
+          <ScalarProperty Name="nume_echipament" ColumnName="nume_echipament" />
+          <ScalarProperty Name="id_producator" ColumnName="id_producator" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Producatoris">
+      <EntityTypeMapping TypeName="Over5000Model.Producatori">
+        <MappingFragment StoreEntitySet="Producatori">
+          <ScalarProperty Name="id_producator" ColumnName="id_producator" />
+          <ScalarProperty Name="nume_producator" ColumnName="nume_producator" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,71 @@
+D:\Facultate\Proiecte\Practica\bin\Debug\Practica.exe.config
+D:\Facultate\Proiecte\Practica\bin\Debug\Practica.exe
+D:\Facultate\Proiecte\Practica\bin\Debug\Practica.pdb
+D:\Facultate\Proiecte\Practica\bin\Debug\EntityFramework.BulkInsert.dll
+D:\Facultate\Proiecte\Practica\bin\Debug\EntityFramework.dll
+D:\Facultate\Proiecte\Practica\bin\Debug\EntityFramework.SqlServer.dll
+D:\Facultate\Proiecte\Practica\bin\Debug\EntityFramework.xml
+D:\Facultate\Proiecte\Practica\bin\Debug\EntityFramework.BulkInsert.dll.config
+D:\Facultate\Proiecte\Practica\bin\Debug\EntityFramework.SqlServer.xml
+D:\Facultate\Proiecte\Practica\obj\Debug\Practica.csprojAssemblyReference.cache
+D:\Facultate\Proiecte\Practica\obj\Debug\Practica.Form1.resources
+D:\Facultate\Proiecte\Practica\obj\Debug\Practica.Properties.Resources.resources
+D:\Facultate\Proiecte\Practica\obj\Debug\Practica.csproj.GenerateResource.cache
+D:\Facultate\Proiecte\Practica\obj\Debug\Practica.csproj.CoreCompileInputs.cache
+D:\Facultate\Proiecte\Practica\obj\Debug\Practica.csproj.CopyComplete
+D:\Facultate\Proiecte\Practica\obj\Debug\Practica.exe
+D:\Facultate\Proiecte\Practica\obj\Debug\Practica.pdb
+D:\Facultate\Proiecte\Practica - Copy\bin\Debug\Practica.exe.config
+D:\Facultate\Proiecte\Practica - Copy\bin\Debug\Practica.exe
+D:\Facultate\Proiecte\Practica - Copy\bin\Debug\Practica.pdb
+D:\Facultate\Proiecte\Practica - Copy\bin\Debug\EntityFramework.BulkInsert.dll
+D:\Facultate\Proiecte\Practica - Copy\bin\Debug\EntityFramework.dll
+D:\Facultate\Proiecte\Practica - Copy\bin\Debug\EntityFramework.SqlServer.dll
+D:\Facultate\Proiecte\Practica - Copy\bin\Debug\EntityFramework.xml
+D:\Facultate\Proiecte\Practica - Copy\bin\Debug\EntityFramework.BulkInsert.dll.config
+D:\Facultate\Proiecte\Practica - Copy\bin\Debug\EntityFramework.SqlServer.xml
+D:\Facultate\Proiecte\Practica - Copy\obj\Debug\Practica.csprojAssemblyReference.cache
+D:\Facultate\Proiecte\Practica - Copy\obj\Debug\Practica.Form1.resources
+D:\Facultate\Proiecte\Practica - Copy\obj\Debug\Practica.Properties.Resources.resources
+D:\Facultate\Proiecte\Practica - Copy\obj\Debug\Practica.csproj.GenerateResource.cache
+D:\Facultate\Proiecte\Practica - Copy\obj\Debug\Practica.csproj.CoreCompileInputs.cache
+D:\Facultate\Proiecte\Practica - Copy\obj\Debug\Practica.csproj.CopyComplete
+D:\Facultate\Proiecte\Practica - Copy\obj\Debug\Practica.exe
+D:\Facultate\Proiecte\Practica - Copy\obj\Debug\Practica.pdb
+D:\Facultate\Proiecte\Practica - Copy\bin\Debug\EntityFramework.MappingAPI.dll
+D:\Facultate\Proiecte\Practica - Copy BUN\bin\Debug\Practica.exe.config
+D:\Facultate\Proiecte\Practica - Copy BUN\bin\Debug\Practica.exe
+D:\Facultate\Proiecte\Practica - Copy BUN\bin\Debug\Practica.pdb
+D:\Facultate\Proiecte\Practica - Copy BUN\bin\Debug\EntityFramework.BulkInsert.dll
+D:\Facultate\Proiecte\Practica - Copy BUN\bin\Debug\EntityFramework.dll
+D:\Facultate\Proiecte\Practica - Copy BUN\bin\Debug\EntityFramework.MappingAPI.dll
+D:\Facultate\Proiecte\Practica - Copy BUN\bin\Debug\EntityFramework.SqlServer.dll
+D:\Facultate\Proiecte\Practica - Copy BUN\bin\Debug\EntityFramework.xml
+D:\Facultate\Proiecte\Practica - Copy BUN\bin\Debug\EntityFramework.BulkInsert.dll.config
+D:\Facultate\Proiecte\Practica - Copy BUN\bin\Debug\EntityFramework.SqlServer.xml
+D:\Facultate\Proiecte\Practica - Copy BUN\obj\Debug\Practica.csprojAssemblyReference.cache
+D:\Facultate\Proiecte\Practica - Copy BUN\obj\Debug\Practica.Form1.resources
+D:\Facultate\Proiecte\Practica - Copy BUN\obj\Debug\Practica.Properties.Resources.resources
+D:\Facultate\Proiecte\Practica - Copy BUN\obj\Debug\Practica.csproj.GenerateResource.cache
+D:\Facultate\Proiecte\Practica - Copy BUN\obj\Debug\Practica.csproj.CoreCompileInputs.cache
+D:\Facultate\Proiecte\Practica - Copy BUN\obj\Debug\Practica.csproj.CopyComplete
+D:\Facultate\Proiecte\Practica - Copy BUN\obj\Debug\Practica.exe
+D:\Facultate\Proiecte\Practica - Copy BUN\obj\Debug\Practica.pdb
+C:\Users\cionc\OneDrive\Desktop\Practica\bin\Debug\Practica.exe.config
+C:\Users\cionc\OneDrive\Desktop\Practica\bin\Debug\Practica.exe
+C:\Users\cionc\OneDrive\Desktop\Practica\bin\Debug\Practica.pdb
+C:\Users\cionc\OneDrive\Desktop\Practica\bin\Debug\EntityFramework.BulkInsert.dll
+C:\Users\cionc\OneDrive\Desktop\Practica\bin\Debug\EntityFramework.dll
+C:\Users\cionc\OneDrive\Desktop\Practica\bin\Debug\EntityFramework.MappingAPI.dll
+C:\Users\cionc\OneDrive\Desktop\Practica\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cionc\OneDrive\Desktop\Practica\bin\Debug\EntityFramework.xml
+C:\Users\cionc\OneDrive\Desktop\Practica\bin\Debug\EntityFramework.BulkInsert.dll.config
+C:\Users\cionc\OneDrive\Desktop\Practica\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cionc\OneDrive\Desktop\Practica\obj\Debug\Practica.csprojAssemblyReference.cache
+C:\Users\cionc\OneDrive\Desktop\Practica\obj\Debug\Practica.Form1.resources
+C:\Users\cionc\OneDrive\Desktop\Practica\obj\Debug\Practica.Properties.Resources.resources
+C:\Users\cionc\OneDrive\Desktop\Practica\obj\Debug\Practica.csproj.GenerateResource.cache
+C:\Users\cionc\OneDrive\Desktop\Practica\obj\Debug\Practica.csproj.CoreCompileInputs.cache
+C:\Users\cionc\OneDrive\Desktop\Practica\obj\Debug\Practica.csproj.CopyComplete
+C:\Users\cionc\OneDrive\Desktop\Practica\obj\Debug\Practica.exe
+C:\Users\cionc\OneDrive\Desktop\Practica\obj\Debug\Practica.pdb
